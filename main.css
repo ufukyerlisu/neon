@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+
+
+.kapsayici{
+    background-color: black;
+    border: 2px solid white;
+    width: 250px;
+    height: 400px;
+    position: relative;
+    margin: auto;
+    top: 200px;
+    box-shadow: 1px 1px 10px white;
+    border-radius: 2px;
+}
