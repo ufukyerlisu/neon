@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: black;
 }
 
 
@@ -14,4 +14,25 @@ body{
     top: 200px;
     box-shadow: 1px 1px 10px white;
     border-radius: 2px;
+}
+
+.footer{
+    background-color: black;
+    border: 2px solid white;
+    width: 150px;
+    height: 130px;
+    position: relative;
+    margin: auto;
+    top: 20px;
+    box-shadow: 1px 1px 10px white;
+    border-radius: 2px;
+}
+
+.buton{
+    position: relative;
+    top: 50px;
+    margin:5px auto;
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
 }
